@@ -1,152 +1,48 @@
 #EXTM3U
-#EXTINF:-1,##########   CAMEROUN   ###########
-#EXTINF:-1,Equinoxe TV
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4458.ts
-#EXTINF:-1,CRTV
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4460.ts
-https://stream-05.ix7.dailymotion.com/dm/3/x6vwqd4/live-3.m3u8
-#EXTINF:-1,France 24
-http://f24hls-i.akamaihd.net:80/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1,NRJ HITS
-http://5.196.138.6:1935/live/nrjbelgique/master.m3u8
-#EXTINF:-1,ROK HD
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/9819.ts
-#EXTINF:-1,ROK ***
-http://dani.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/10774.ts
-#EXTINF:-1,Nollywood TV
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10297.ts
-#EXTINF:-1,DBM TV
-rtmp://webtvonlive.vedge.infomaniak.com/livecast/teststream
-#EXTINF:-1,People tv(africa)
-http://ec.playmedia.fr/people-tv/live/chunklist_w813431004.m3u8
-#EXTINF:-1,BBlack Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1, Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1,AsSalt TV
+https://stream.ecable.tv/asstv/index.m3u8
+#EXTINF:-1,BOOM TV
+http://stream.ecable.tv:9080/boom/index.m3u8
+#EXTINF:-1,Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1,TRACE GOSPEL
+http://d2ktlibtvvj8vp.cloudfront.net:80/trace_gospel/3/prog_index.m3u8
+#EXTINF:-1,TRACE GOSPEL*
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/3/prog_index.m3u8
+#EXTINF:-1,TRACE GOSPEL**
+http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
 #EXTINF:-1,TRACE NAIJA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+http://dmitry-tv.ru/his/CH_TRACE_NAIJAHD_720.m3u8
 #EXTINF:-1,TRACE AFRICA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1,Afro Music
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4610.ts
-#EXTINF:-1,##########   SENEGAL   ###########
-#EXTINF:-1,EYE AFRICA 3 TV
-http://162.212.178.131:1935/EYESAFRICA/eyesafrica3/chunklist_w2022386435.m3u8
-#EXTINF:-1,EYE AFRICA 2 TV
-http://162.212.178.131:1935/EYESAFRICA/eyesafrica2/chunklist_w241941449.m3u8
-#EXTINF:-1,EYE AFRICA 4 TV
-http://162.212.178.131:1935/EYESAFRICA/eyesafrica4/chunklist_w989197964.m3u8
-#EXTINF:-1,MAKKAH LIVE
-http://tekoiptv.ch:8000/live/Buritv/Z5bQ7LCyZn/631.ts
-#EXTINF:-1,RTV ISLAM
-http://tekoiptv.ch:8000/live/Buritv/Z5bQ7LCyZn/1657.ts
-#EXTINF:-1,Beatz HD 
-http://beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
-#EXTINF:-1,AF: RTS 1
-http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3243.ts
-#EXTINF:-1,AF: ORTM
-http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3242.ts
-#EXTINF:-1,AF: TFM Senegal
-http://lockiptv.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3241.ts
-#EXTINF:-1,NRJ HITS
-http://5.196.138.6:1935/live/nrjbelgique/master.m3u8
-
-#EXTINF:-1,tvg-id=sport2S
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4450.ts
-#EXTINF:-1,Gong Base
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1,AFRIQUE MEDIA
-https://stream-09.dc3.dailymotion.com/dm/3/x5dk3kj/live-3.m3u8
-#EXTINF:-1,TFM
-https://stream-09.dc3.dailymotion.com/dm/3/x5blsx0/live-1.m3u8
-https://stream-04.ix7.dailymotion.com/dm/3/x5blsx0/live-1.m3u8
-#EXTINF:-1,Tfm Regional Senegal
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4717.ts
-#EXTINF:-1,KING FM SENEGAL
-https://stream-09.dc3.dailymotion.com/dm/3/x5co3ga/live-2.m3u8
-#EXTINF:-1,Walf tv
-https://stream-13.dc3.dailymotion.com/dm/3/x5s5vw3/live-1.m3u8
-#EXTINF:-1,MOURIDE TV
-rtmp://162.212.178.131/Livemouridetv/mouridetv
-http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist_w1739364370.m3u8
-#EXTINF:-1,Diaspora 24 TV
-rtmp://diaspora24.tv/diaspora24tv//diaspora24
-https://stream-04.dc3.dailymotion.com/dm/3/x6cq41k/live-1.m3u8
-#EXTINF:-1,RTS 1
-http://dani.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/3243.ts
-#EXTINF:-1,2STV (Senegal)
-http://dani.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/14833.ts
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1,TRACE KITIKO
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1,TRACE URBAN
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
+#EXTINF:-1,Reggae Vibes
+http://stream.ecable.tv:9080/rvibes/index.m3u8
 #EXTINF:-1,DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
-#EXTINF:-1,RFM.sn
-http://ample-zeno-11.radiojar.com/00vvab3xf6vtv?rj-ttl=5&rj-token=AAABZmATTTlsF8wrM_z3Th5lcCeZNheifw295vPPw84iEyzRjEZmdA
-#EXTINF:-1,AF: A2i TV
-http://162.212.178.131:1935/live/Ai2tv/chunklist_w166709358.m3u8
-#EXTINF:-1,Movie/ Music
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4603.ts
-#EXTINF:-1,AfriCable
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4462.ts
-#EXTINF:-1,Novelas
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4441.ts
-#EXTINF:-1,TFM AF
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4434.ts
-#EXTINF:-1,Mourchid TV Senegal
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4707.ts
-#EXTINF:-1,Lamp Fall
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4443.ts
-#EXTINF:-1,DTV.sn
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4435.ts
-#EXTINF:-1,Diaspora24
-https://stream-09.ix7.dailymotion.com/dm/3/x6cq41k/live-1.m3u8
-
-#EXTINF:-1,==NIGERIA==
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/a-/ACSszfGv1CpE0Ech5Ey8Y9f9zz7FjgHjWyl3Xh5UkA=s48-mo-c-c0xffffffff-rj-k-no" group-title="NIGERIA", TVC
-http://185.105.4.188:1935/tvce/myStream/chunklist_w1712150788.m3u8
-#EXTINF:-1,tvg-logo="http://www.iafrica.tv/ics/uploads/NTAi248x2351.png" group-title="NIGERIA", NTAi
-http://bk7l2g37dx53-hls-live.5centscdn.com/NTAi/8890bd6207cb14550461bfcdefacabe6.sdp/index.m3u8
-rtmp://cdn.filmover.com/stream//NTAi?e=1537913321&st=fIWeGX6ifa4drHBDb9k-nQ
-#EXTINF:-1,tvg-logo="https://en.wikipedia.org/wiki/BEN_Television#/media/File:BENTV.png" group-title="NIGERIA",BEN TV
-http://bentv.ashttp9.visionip.tv/live/bentv-bentv-bentv-hsslive-25f-4X3-SD/chunklist.m3u8?ref=bentelevision.com&USER=BenTV%2520Player&wowzasessionid=1416719627
-http://bentv.ashttp9.visionip.tv/live/bentv-bentv-bentv-hsslive-25f-4X3-SD/chunklist.m3u8
-#EXTINF:-1,tvg-logo="http://itvradioNIGERIA.com/ng/wp-content/uploads/2013/11/itv-benin.png" group-title="NIGERIA",ITV BENIN
-http://flash.netcasterusa.com:1935/itvlive/itvlive/chunklist_w1848631395.m3u8
-#EXTINF:-1,tvg-logo="http://www.aitonline.tv/images/logo.png" group-title="NIGERIA",AIT NEWS
-https://5a82fcf363895.streamlock.net:4443/SUNS7048CBHeprJBKySJ/smil:SMILNOAO_7048CBHeprJBKySJ.smil/chunklist_w181320758_b500000_t64SGlnaCBRdWFsaXR5.m3u8
-#EXTINF:-1,tvg-logo="https://www.channelstv.com/wp-content/themes/channels2016/channels-logo.png" group-title="NIGERIA",CHANNELS
-http://edge1.cdn.tvnow.ids-africa.com/mchannels/channelstv_hi.m3u8
-#EXTINF:-1,tvg-id="Lagos television" group-title="NIGERIA",Lagos television
-http://185.105.4.188:1935/ltv/myStream/chunklist_w1074742346.m3u8
-#EXTINF:-1,tvg-id="ARISE NEWS" group-title="NIGERIA",ARISE NEWS
+#EXTINF:-1,trace movie
+https//d9d73yp7b4cda.cloudfront.net/mediacache/_definst_/smil:s3trace/encoded/95100_noaudio.smil/chunklist_b1327104.m3u8
+#EXTINF:0,Euro News English
+#EXTGRP:unsorted
+http://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
+#EXTINF:0,Aljazeera News English
+#EXTGRP:unsorted
+https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
+#EXTINF:0,CNN INTERNATIONAL
+#EXTGRP:unsorted
+http://ott-cdn.ucom.am/s27/index.m3u8
+#EXTINF:0,Bloomberg HD*
+#EXTGRP:unsorted
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,ARISE NEWS
+#EXTGRP:unsorted
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MUSIQ AFRICA" group-title="MUSIQ AFRICA",=== MUSIQ AFRICA===
-#EXTINF:-1,AFRO BEATS
-http://81.171.10.35:9088/afb/index.m3u8?token=787e40844809f2e7c68b6b1182c462df-1541170265-59156-1-8c0b3d742e1315adb64297ddd4fac24a
-#EXTINF:-1,DBM TV
-rtmp://webtvonlive.vedge.infomaniak.com/livecast/teststream
-#EXTINF:-1,People tv(africa)
-http://ec.playmedia.fr/people-tv/live/chunklist_w813431004.m3u8
-#EXTINF:-1,tvg-id="BBlack Africa" group-title="MUSIQ AFRICA", BBlack Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="MUSIQ AFRICA", TRACE NAIJA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1,tvg-id="TRACE AFRICA" group-title="MUSIQ AFRICA", TRACE AFRICA
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1,tvg-id="Afro Music" group-title="MUSIQ AFRICA", Afro Music
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/4610.ts
-#EXTINF:-1 tvg-id="MOVIE AFRICA" group-title="MOVIE AFRICA",=== MOVIE AFRICA ===
-#EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK HD
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/9819.ts
-#EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK SD
-http://ipsatpro.biz:8080/live/tura/123456/983.ts
-#EXTINF:-1,tvg-logo="https://cdn.dstv.com/dstvcms/2016/10/17/DStv_Logo_ROK_003_lrg.jpg" group-title="MOVIE AFRICA", ROK ***
-http://dani.moppie.info:7444/live/AfUcrikaa/aZT7lKQIf5/10774.ts
-#EXTINF:-1,tvg-id="Nollywood TV" group-title="MOVIE AFRICA", Nollywood TV
-http://179.43.156.222:8080/live/P3N44VFbbg/kPJK0n3Zu1/10297.ts
-#EXTINF:-1,tvg-logo"http://www.iafrica.tv/ics/uploads/nec3.png" group-title="MOVIE AFRICA", NEC
-http://bk7l2g37dx53-hls-live.5centscdn.com/NEC/293e4db7d0e2a1475766fcc5fba8bfa3.sdp/index.m3u8
-#EXTINF:-1,tvg-id="Ghana TV Abroad" group-title="MOVIE AFRICA", Ghana TV Abroad
-http://198.7.63.116:8080/hls/ghtvabroad.m3u8
-#EXTINF:-1,tvg-id="Ghana TV Canada" group-title="MOVIE AFRICA", Ghana TV Canada
-http://uni8rtmp.tulix.tv/ghanaglobal/ghanaglobal/chunklist_w654362398.m3u8
-#EXTINF:-1,tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781500_logo_ziz_tv_saint_kitts_and_nevis.png" group-title="MOVIE AFRICA", ZIZ TV
-http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
+#EXTINF:0,TRT World HD
+#EXTGRP:unsorted
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
