@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,NAIJA PRAISE
+http://pipe.ukprostream.com:8090/stream/1/
+#EXTINF:-1,BLACK GOSPEL
+http://stream.trace.tv/trace_playlist_gospel-midfi.aac
 #EXTINF:-1,AFRO VIBES
 http://209.126.119.76:8356/stream
 #EXTINF:-1,REGGAE MUSIC
@@ -41,8 +45,6 @@ http://stream.trace.tv/trace_playlist_afro_classics-midfi.aac
 http://stream.trace.tv/trace_playlist_heartbreaker-midfi.aac
 #EXTINF:-1,SLEEP WELL
 http://stream.trace.tv/trace_playlist_sleepwell-midfi.aac
-#EXTINF:-1,104.9 The River
-http://stream.riverradio.com:8000/wcvofm.mp3
 #EXTINF:-1,POSITIVE LIFE RADIO
 http://173.244.209.143:8162/live
 #EXTINF:-1,Smooth FM 98.1 NG
@@ -69,8 +71,6 @@ http://204.77.222.2:8098/stream
 http://fluxfm.hoerradar.de/flux-80er-mp3-hq?sABC=5qp08770%230%235q1s3rs0336on8ppq715pr945q5qs66o%23gharva&amsparams=playerid:tunein;skey:1572898672
 #EXTINF:-1,The Big 80s Station
 http://s5.nexuscast.com:8065/;
-#EXTINF:-1,ENERGY Hits 90
-http://185.52.127.172/de/56246/mp3_128.mp3
 #EXTINF:-1,IP music SLOW
 http://live7.avf.ch:8000/ipmusicslow320
 #EXTINF:-1,RetroRadio.FM - Smooth Easy Hits
@@ -93,8 +93,6 @@ http://media-ice.musicradio.com/HeartDorset
 http://vis.media-ice.musicradio.com/CapitalUK
 #EXTINF:-1,RnB HIP HOP (NAIJA)
 http://192.99.41.102:5429/;
-#EXTINF:-1,GOTRADIO
-http://pureplay.cdnstream1.com/6024_128.mp3
 #EXTINF:-1,THE SOUL
 http://65.60.5.207/proxy/wosrdb?mp=/stream
 #EXTINF:-1,RADIO FM",(101.1)THE FAM DIGITAL RADIO
@@ -107,51 +105,5 @@ https://streamer.radio.co/s30d82be5e/listen
 http://strm112.1.fm/reggae_mobile_mp3
 #EXTINF:-1,RASTFM
 http://108.59.11.81:8255/;
-
-#EXTINF:-1, Spirit TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1,AsSalt TV
-https://stream.ecable.tv/asstv/index.m3u8
-#EXTINF:-1,BOOM TV
-http://stream.ecable.tv:9080/boom/index.m3u8
 #EXTINF:-1,Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1,TRACE GOSPEL
-http://d2ktlibtvvj8vp.cloudfront.net:80/trace_gospel/3/prog_index.m3u8
-#EXTINF:-1,TRACE GOSPEL*
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/3/prog_index.m3u8
-#EXTINF:-1,TRACE GOSPEL**
-http://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/live.m3u8
-#EXTINF:-1,TRACE NAIJA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-http://dmitry-tv.ru/his/CH_TRACE_NAIJAHD_720.m3u8
-#EXTINF:-1,TRACE AFRICA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1,TRACE KITIKO
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1,TRACE URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
-#EXTINF:-1,Reggae Vibes
-http://stream.ecable.tv:9080/rvibes/index.m3u8
-#EXTINF:-1,DBM
-https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist_w300555392.m3u8
-#EXTINF:-1,trace movie
-https//d9d73yp7b4cda.cloudfront.net/mediacache/_definst_/smil:s3trace/encoded/95100_noaudio.smil/chunklist_b1327104.m3u8
-#EXTINF:0,Euro News English
-#EXTGRP:unsorted
-http://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
-#EXTINF:0,Aljazeera News English
-#EXTGRP:unsorted
-https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
-#EXTINF:0,CNN INTERNATIONAL
-#EXTGRP:unsorted
-http://ott-cdn.ucom.am/s27/index.m3u8
-#EXTINF:0,Bloomberg HD*
-#EXTGRP:unsorted
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:0,ARISE NEWS
-#EXTGRP:unsorted
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:0,TRT World HD
-#EXTGRP:unsorted
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
