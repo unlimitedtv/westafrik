@@ -7,6 +7,8 @@ http://stream.trace.tv/trace_playlist_gospel-midfi.aac
 http://stream.trace.tv/trace_naija-midfi.aac
 #EXTINF:-1,AFRO VIBES
 http://209.126.119.76:8356/stream
+#EXTINF:-1,HITS
+http://stream.trace.tv/trace_hits-midfi.aac
 #EXTINF:-1,Smooth FM 98.1 NG
 http://smoothlive.smooth981.fm:8000/smoothlivefm128
 #EXTINF:-1,City 105.1 FM NG
