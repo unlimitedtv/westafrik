@@ -3,8 +3,24 @@
 http://pipe.ukprostream.com:8090/stream/1/
 #EXTINF:-1,BLACK GOSPEL
 http://stream.trace.tv/trace_playlist_gospel-midfi.aac
+#EXTINF:-1,TRACE NAIJA
+http://stream.trace.tv/trace_naija-midfi.aac
 #EXTINF:-1,AFRO VIBES
 http://209.126.119.76:8356/stream
+#EXTINF:-1,Smooth FM 98.1 NG
+http://smoothlive.smooth981.fm:8000/smoothlivefm128
+#EXTINF:-1,City 105.1 FM NG
+http://edge.mixlr.com/channel/hqpry
+#EXTINF:-1,Metro 97.7 FM NG
+http://162.241.33.182:7668/;
+#EXTINF:-1,Naija FM
+http://naijafmlagos.atunwadigital.streamguys1.com/naijafmlagos
+#EXTINF:-1,Cool FM 96.9 Lagos
+http://node-26.zeno.fm/a4mzh0n1v8quv?rj-ttl=5&rj-tok=AAABbjd9SjUAb3wKiPXzSJnKLg
+#EXTINF:-1,(Naija)MAX 102.3 FM
+http://maxfm1023.thrilliant.com.ng:9193/stream%E2%80%8B
+#EXTINF:-1,(Naija)234Radio
+http://streaming.radio.co/s7f3695a64/listen
 #EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s222450/images/logoq.jpg",group-title="RADIO FM",ENERGY Rap US
 http://185.52.127.157/de/33041/mp3_128.mp3
 #EXTINF:-1,REGGAE MUSIC
@@ -49,20 +65,6 @@ http://stream.trace.tv/trace_playlist_heartbreaker-midfi.aac
 http://stream.trace.tv/trace_playlist_sleepwell-midfi.aac
 #EXTINF:-1,POSITIVE LIFE RADIO
 http://173.244.209.143:8162/live
-#EXTINF:-1,Smooth FM 98.1 NG
-http://smoothlive.smooth981.fm:8000/smoothlivefm128
-#EXTINF:-1,City 105.1 FM NG
-http://edge.mixlr.com/channel/hqpry
-#EXTINF:-1,Metro 97.7 FM NG
-http://162.241.33.182:7668/;
-#EXTINF:-1,Naija FM
-http://naijafmlagos.atunwadigital.streamguys1.com/naijafmlagos
-#EXTINF:-1,Cool FM 96.9 Lagos
-http://node-26.zeno.fm/a4mzh0n1v8quv?rj-ttl=5&rj-tok=AAABbjd9SjUAb3wKiPXzSJnKLg
-#EXTINF:-1,(Naija)MAX 102.3 FM
-http://maxfm1023.thrilliant.com.ng:9193/stream%E2%80%8B
-#EXTINF:-1,(Naija)234Radio
-http://streaming.radio.co/s7f3695a64/listen
 #EXTINF:-1,Urban Hitz Radio
 http://s25.myradiostream.com:14158/;
 #EXTINF:-1,The Rap MIXX
