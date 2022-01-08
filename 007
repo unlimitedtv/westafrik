@@ -1,54 +1,46 @@
 #EXTM3U
-EXTINF:-1, group-title="NEWS",CNN International
+EXTINF:-1,CNN International group-title="NEWS",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-EXTINF:-1, group-title="NEWS",Aljazeera
+EXTINF:-1,Aljazeera group-title="NEWS",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-EXTINF:-1, group-title="NEWS",euronews
+EXTINF:-1,euronews group-title="NEWS",euronews
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1641620200/ei/iM7YYYXkA5S01gLJxpdg/ip/176.206.143.181/id/sPgqEHsONK8.3/itag/133/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/captions/1/lang/en/caps_ts_bits/33/hls_chunk_host/rr3---sn-hpa7kn7e.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/it/vprv/1/playlist_type/DVR/initcwndbps/6090/mh/nD/mm/44/mn/sn-hpa7kn7e/ms/lva/mv/m/mvi/3/pl/17/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1641598608/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,captions,lang,caps_ts_bits,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAMQXFzozCduO9pg-nSnpUaKojBzPe7W-2PQ_sZHvEbskAiAeb68vLKuardlPvbAuoQao59Pd8Yf3FDM9PcHCasW12Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAO7oqwutw9xW2uqvUdyOba3Bio4GJ0Loo1b3zKImECcZAiEAy_cMMdEh5O5SXnAAImlllXXz0guOrVncL52FmTQiyVc%3D/playlist/index.m3u8
-EXTINF:-1, group-title="NEWS",France 24
+EXTINF:-1,France 24 group-title="NEWS",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-EXTINF:-1, group-title="NEWS",BBC WORLD NEWS
+EXTINF:-1,BBC WORLD NEWS group-title="NEWS",BBC WORLD NEWS
 http://103.199.161.254:80/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-EXTINF:-1, group-title="NEWS",CBSN
+EXTINF:-1,CBSN group-title="NEWS",CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-EXTINF:-1, group-title="NEWS",ARISE NEWS
+EXTINF:-1,ARISE NEWS group-title="NEWS",ARISE NEWS
 https://news.sechls01.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-EXTINF:-1, group-title="NEWS",CHANNEL 24
+EXTINF:-1,CHANNEL 24 group-title="NEWS",CHANNEL 24
 https://stream.ecable.tv/channels/index.m3u8
-EXTINF:-1, group-title="ENTERTAINMENT",Ring of Honor
+EXTINF:-1,Ring of Honor group-title="ENTERTAINMENT",Ring of Honor
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
-EXTINF:-1, group-title="ENTERTAINMENT",ROK
+EXTINF:-1,ROK group-title="ENTERTAINMENT",ROK
 https://stream.ecable.tv/rok/index.m3u8
-EXTINF:-1, group-title="ENTERTAINMENT",YANGA
+EXTINF:-1,YANGA group-title="ENTERTAINMENT",YANGA
 https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD/chunklist.m3u8EXTINF:-1, group-title="MUSIC",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-EXTINF:-1, group-title="MUSIC",DBM
+EXTINF:-1,DBM group-title="MUSIC",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist.m3u8
-EXTINF:-1, group-title="MUSIC",afrobeats
+EXTINF:-1,afrobeats group-title="MUSIC",afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-EXTINF:-1, group-title="MUSIC",VEVO HIP HOP Channel
+EXTINF:-1,VEVO HIP HOP Channel group-title="MUSIC",VEVO HIP HOP Channel
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-EXTINF:-1, group-title="MUSIC",H!T Music Channel
+EXTINF:-1,H!T Music Channel group-title="MUSIC",H!T Music Channel
 http://hitmusic.hu/hitmusic.m3u8
-EXTINF:-1, group-title="MUSIC",Qello Concerts
+EXTINF:-1,Qello Concerts group-title="MUSIC",Qello Concerts
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-EXTINF:-1, group-title="MUSIC",Stingray Greatest Hits
+EXTINF:-1,Stingray Greatest Hits group-title="MUSIC",Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-EXTINF:-1, group-title="MUSIC",Stingray Hit List
+EXTINF:-1,Stingray Hit List group-title="MUSIC",Stingray Hit List
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-EXTINF:-1, group-title="MUSIC",Stingray Classic Rock
+EXTINF:-1,Stingray Classic Rock group-title="MUSIC",Stingray Classic Rock
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-EXTINF:-1, group-title="MUSIC",Stingray Rock Alternative (1080p)
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-EXTINF:-1, group-title="MUSIC",Stingray Pop Adult
+EXTINF:-1,Stingray Pop Adult group-title="MUSIC",Stingray Pop Adult
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-EXTINF:-1, group-title="MUSIC",Stingray Urban Beat
+EXTINF:-1,Stingray Urban Beat group-title="MUSIC",Stingray Urban Beat
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-EXTINF:-1, group-title="MUSIC",Stingray Hot Country
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-EXTINF:-1, group-title="MUSIC",Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-EXTINF:-1, group-title="MUSIC",Stingray Everything 80s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
