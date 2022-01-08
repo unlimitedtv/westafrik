@@ -1,115 +1,54 @@
 #EXTM3U
-#EXTINF:-1,NAIJA PRAISE
-http://pipe.ukprostream.com:8090/stream/1/
-#EXTINF:-1,BLACK GOSPEL
-http://stream.trace.tv/trace_playlist_gospel-midfi.aac
-#EXTINF:-1,TRACE NAIJA
-http://stream.trace.tv/trace_naija-midfi.aac
-#EXTINF:-1,AFRO VIBES
-http://209.126.119.76:8356/stream
-#EXTINF:-1,HITS
-http://stream.trace.tv/trace_hits-midfi.aac
-#EXTINF:-1,Smooth FM 98.1 NG
-http://smoothlive.smooth981.fm:8000/smoothlivefm128
-#EXTINF:-1,City 105.1 FM NG
-http://edge.mixlr.com/channel/hqpry
-#EXTINF:-1,Metro 97.7 FM NG
-http://162.241.33.182:7668/;
-#EXTINF:-1,Naija FM
-http://naijafmlagos.atunwadigital.streamguys1.com/naijafmlagos
-#EXTINF:-1,Cool FM 96.9 Lagos
-http://node-26.zeno.fm/a4mzh0n1v8quv?rj-ttl=5&rj-tok=AAABbjd9SjUAb3wKiPXzSJnKLg
-#EXTINF:-1,(Naija)MAX 102.3 FM
-http://maxfm1023.thrilliant.com.ng:9193/stream%E2%80%8B
-#EXTINF:-1,(Naija)234Radio
-http://streaming.radio.co/s7f3695a64/listen
-#EXTINF:-1,tvg-logo="https://cdn-profiles.tunein.com/s222450/images/logoq.jpg",group-title="RADIO FM",ENERGY Rap US
-http://185.52.127.157/de/33041/mp3_128.mp3
-#EXTINF:-1,REGGAE MUSIC
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_reggae-midfi.aac
-#EXTINF:-1,WIZKID
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_wizkid-midfi.aac
-#EXTINF:-1,BEACH PARTY
-http://stream.trace.tv/trace_playlist_beachparty-midfi.aac
-#EXTINF:-1,SUMMER JAM
-http://stream.trace.tv/trace_playlist_hotsummer-midfi.aac
-#EXTINF:-1,ALTERNATIVE R&B
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_alternative_rnb-midfi.aac
-#EXTINF:-1,HIP HOP USA
-http://d2ktlibtvvj8vp.cloudfront.net/trace_hiphop-midfi.aac
-#EXTINF:-1,R&B DIVAS
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_rnb_divas-midfi.aac
-#EXTINF:-1,GUILTY PLEASURE
-http://stream.trace.tv/trace_playlist_guiltypleasure-midfi.aac
-#EXTINF:-1,NIGHT MOOD
-http://stream.trace.tv/trace_playlist_nightmood-midfi.aac
-#EXTINF:-1,STRIP CLUB
-http://stream.trace.tv/trace_playlist_stripclub-midfi.aac
-#EXTINF:-1,SOUL MUSIC
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_soul-midfi.aac
-#EXTINF:-1,LOVE MUSIC
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_love-midfi.aac
-#EXTINF:-1,SEXUAL HEALING MUSIC
-http://stream.trace.tv/trace_playlist_sexualhealing-midfi.aac
-#EXTINF:-1,OLD SCHOOL R&B MUSIC
-http://d2ktlibtvvj8vp.cloudfront.net/trace_playlist_rnb_oldschool-midfi.aac
-#EXTINF:-1,GOOD VIBES ONLY
-http://stream.trace.tv/trace_playlist_goodvibesonly-midfi.aac
-#EXTINF:-1,HOME COCOONING
-http://stream.trace.tv/trace_playlist_homecocooning-midfi.aac
-#EXTINF:-1,EASY MORNING
-http://stream.trace.tv/trace_playlist_easymorning-midfi.aac
-#EXTINF:-1,AFRO CLASSICS
-http://stream.trace.tv/trace_playlist_afro_classics-midfi.aac
-#EXTINF:-1,HEART BREAK
-http://stream.trace.tv/trace_playlist_heartbreaker-midfi.aac
-#EXTINF:-1,SLEEP WELL
-http://stream.trace.tv/trace_playlist_sleepwell-midfi.aac
-#EXTINF:-1,POSITIVE LIFE RADIO
-http://173.244.209.143:8162/live
-#EXTINF:-1,Urban Hitz Radio
-http://s25.myradiostream.com:14158/;
-#EXTINF:-1,The Rap MIXX
-http://ais-sa2.cdnstream1.com/1988_128.mp3
-#EXTINF:-1,Boss Radio 60s Songs
-http://204.77.222.2:8098/stream
-#EXTINF:-1,80s
-http://fluxfm.hoerradar.de/flux-80er-mp3-hq?sABC=5qp08770%230%235q1s3rs0336on8ppq715pr945q5qs66o%23gharva&amsparams=playerid:tunein;skey:1572898672
-#EXTINF:-1,The Big 80s Station
-http://s5.nexuscast.com:8065/;
-#EXTINF:-1,IP music SLOW
-http://live7.avf.ch:8000/ipmusicslow320
-#EXTINF:-1,RetroRadio.FM - Smooth Easy Hits
-http://ams-2.1radio.mk/1709_128
-#EXTINF:-1,POSITVITY EASY
-http://ample-15.radiojar.com/d90sb07byuquv?rj-ttl=5&rj-tok=AAABbjdqKPwAiVjcGF8ASR__Nw
-#EXTINF:-1,181.FM Mellow Gold
-http://listen.181fm.com/181-mellow_128k.mp3?noPreRoll=true
-#EXTINF:-1,Old School 104.7
-http://ice10.securenetsystems.net/KQIE2
-#EXTINF:-1,181.FM True R&B
-http://listen.181fm.com/181-rnb_128k.mp3?noPreRoll=true
-#EXTINF:-1,GotRadio Bit O Blues
-http://pureplay.cdnstream1.com/6019_128.mp3
-#EXTINF:-1,RADIO PARADISE
-http://stream-tx3.radioparadise.com/mp3-192
-#EXTINF:-1,HEART UK
-http://media-ice.musicradio.com/HeartDorset
-#EXTINF:-1,CAPITAL FM
-http://vis.media-ice.musicradio.com/CapitalUK
-#EXTINF:-1,RnB HIP HOP (NAIJA)
-http://192.99.41.102:5429/;
-#EXTINF:-1,THE SOUL
-http://65.60.5.207/proxy/wosrdb?mp=/stream
-#EXTINF:-1,RADIO FM",(101.1)THE FAM DIGITAL RADIO
-http://107.181.227.250:8118/stream
-#EXTINF:-1,Reggae Airways
-http://76.164.217.100:7059/stream
-#EXTINF:-1,DANCEHALL LINK
-https://streamer.radio.co/s30d82be5e/listen
-#EXTINF:-1,Reggae Trade Radio
-http://strm112.1.fm/reggae_mobile_mp3
-#EXTINF:-1,RASTFM
-http://108.59.11.81:8255/;
-#EXTINF:-1,Afrobeats
+EXTINF:-1, group-title="NEWS",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+EXTINF:-1, group-title="NEWS",Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+EXTINF:-1, group-title="NEWS",euronews
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1641620200/ei/iM7YYYXkA5S01gLJxpdg/ip/176.206.143.181/id/sPgqEHsONK8.3/itag/133/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/captions/1/lang/en/caps_ts_bits/33/hls_chunk_host/rr3---sn-hpa7kn7e.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/it/vprv/1/playlist_type/DVR/initcwndbps/6090/mh/nD/mm/44/mn/sn-hpa7kn7e/ms/lva/mv/m/mvi/3/pl/17/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1641598608/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,captions,lang,caps_ts_bits,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAMQXFzozCduO9pg-nSnpUaKojBzPe7W-2PQ_sZHvEbskAiAeb68vLKuardlPvbAuoQao59Pd8Yf3FDM9PcHCasW12Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAO7oqwutw9xW2uqvUdyOba3Bio4GJ0Loo1b3zKImECcZAiEAy_cMMdEh5O5SXnAAImlllXXz0guOrVncL52FmTQiyVc%3D/playlist/index.m3u8
+EXTINF:-1, group-title="NEWS",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+EXTINF:-1, group-title="NEWS",BBC WORLD NEWS
+http://103.199.161.254:80/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+EXTINF:-1, group-title="NEWS",CBSN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+EXTINF:-1, group-title="NEWS",ARISE NEWS
+https://news.sechls01.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+EXTINF:-1, group-title="NEWS",CHANNEL 24
+https://stream.ecable.tv/channels/index.m3u8
+EXTINF:-1, group-title="ENTERTAINMENT",Ring of Honor
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+EXTINF:-1, group-title="ENTERTAINMENT",ROK
+https://stream.ecable.tv/rok/index.m3u8
+EXTINF:-1, group-title="ENTERTAINMENT",YANGA
+https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-yanga-hsslive-25f-SD/chunklist.m3u8EXTINF:-1, group-title="MUSIC",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+EXTINF:-1, group-title="MUSIC",DBM
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/chunklist.m3u8
+EXTINF:-1, group-title="MUSIC",afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
+EXTINF:-1, group-title="MUSIC",VEVO HIP HOP Channel
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+EXTINF:-1, group-title="MUSIC",H!T Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+EXTINF:-1, group-title="MUSIC",Qello Concerts
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+EXTINF:-1, group-title="MUSIC",Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+EXTINF:-1, group-title="MUSIC",Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+EXTINF:-1, group-title="MUSIC",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+EXTINF:-1, group-title="MUSIC",Stingray Rock Alternative (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+EXTINF:-1, group-title="MUSIC",Stingray Pop Adult
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+EXTINF:-1, group-title="MUSIC",Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+EXTINF:-1, group-title="MUSIC",Stingray Hot Country
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+EXTINF:-1, group-title="MUSIC",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+EXTINF:-1, group-title="MUSIC",Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
